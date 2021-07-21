@@ -1,0 +1,181 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+*{
+
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+html{
+   font-size: 62.5%;
+}
+.nav2{
+    background-color: rgb(26, 26, 26);
+    color: white;
+    letter-spacing: 0.3rem;
+}
+.nav2 ul{
+    float: right;
+}
+.nav2 li{
+    display: inline;
+}
+.nav2 .dnav2{
+    padding: 1.5rem 7rem;
+}
+.nav2 h1{
+    font-weight: 700;
+    font-size: 4rem;
+    display: inline;
+    letter-spacing: 1rem;
+}
+.nav2 a{
+    text-decoration: none;
+    color: white;
+    margin: 1.5rem;
+    font-size: 2rem;
+}
+.nav2 a:hover{
+    padding-bottom:0.1rem;
+    border-bottom: 0.2rem solid white;
+}
+
+.asection .ac{
+    margin-top: 3rem ;
+    /* border:4px solid red; */
+    padding: 1.5rem 17rem;
+}
+.asection .ac h1{
+    padding-left: 0.3rem;
+    border-bottom: 0.7rem solid rgb(223, 92, 59);
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+}
+.asection .ac p{
+    font-size: 2rem;
+    letter-spacing: 0.3rem;
+}
+footer .afootd{
+    /* border: 4px solid red; */
+    box-shadow: 0px 7px 20px 2px #888888;;
+    margin-top: 3rem ;
+    margin-left: 17rem;
+    margin-right:17rem ;
+    padding: 1.5rem 17rem;
+    height: 10rem;
+    margin-top: 4rem;
+    background-color: rgb(221, 212, 212);
+}
+footer .afootd p{
+    float: left;
+    font-size: 2rem;
+    letter-spacing: 0.3rem;
+    width: 70%;
+}
+footer .afootd a{
+    float: left;
+    color: white;
+    font-size: 2.5rem;
+    padding: 0.6rem;
+    border-radius: 25rem;
+    text-decoration: none;
+    background-color:rgb(223, 92, 59);
+    letter-spacing: 0.3rem;
+    width: 22.4%;
+    margin-top: 0.75rem;
+}
+footer .afootd a:hover:hover{
+    text-decoration:underline;
+    
+}
+footer .ct i{
+    width: 5%;
+    float: left;
+    color: rgb(223, 92, 59);
+    padding: 1rem;
+    margin-top: 0.4rem;
+}
+.points .list{
+    /* border: 4px solid red; */
+    padding: 1.5rem 17rem;
+    height: 10rem;
+    height:20rem ;
+    font-size: 2rem;
+    margin: 0 10rem;
+    letter-spacing: 0.3rem;
+    line-height: 3rem;
+}
+.points .list .pts1{
+    /* border: 2px solid red; */
+    list-style-type: none;
+    float:left
+}
+.points .list .pts2{
+    /* border: 2px solid red; */
+    list-style-type: none;
+    float:right
+}
+.points .list i{
+    color: rgb(223, 92, 59);
+}
+footer .foot1{
+    height: 20rem; 
+    margin-top: 5rem;
+    text-align: center;
+    
+    
+}
+footer .foot1 i{
+    padding-top: 5rem;
+    padding-right:1.5rem;
+    padding-left:1.5rem;
+    color: rgb(43, 43, 43);
+    
+}
+footer .foot1 i:hover{
+    color:rgb(43, 137, 226);
+}
+footer .foot1 p{
+    padding: 0.6rem;
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+    
+}
+.foot{
+    background-color: rgb(243, 243, 34);
+    margin-top: 7rem;
+
+}
+.sec3{
+    margin: 0 17rem;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    margin-bottom: 10rem;
+    font-weight: 700;
+}
+.sec3 .div3a{
+    float: left;
+    width: 25%;
+}
+.sec3 .div3b{
+    float: left;
+    width: 25%;
+}
+.sec3 .div3c{
+    float: left;
+    width: 25%;
+}
+.sec3 .div3d{
+    float: left;
+    width: 25%;
+}
+.sec3 h1{
+    color: rgb(223, 92, 59);
+    font-size: 3.5rem;
+}
+.sec3 p{
+    font-size: 1.65rem;
+}
